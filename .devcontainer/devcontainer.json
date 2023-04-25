@@ -1,6 +1,5 @@
 {
   "name": "vue-frontend-interview-codespaces",
-  "remoteUser": "vscode",
   "features": {
     "git": "latest",
     "git-lfs": "latest",
