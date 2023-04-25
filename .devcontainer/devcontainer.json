@@ -12,7 +12,7 @@
         "antfu.iconify",
         "antfu.unocss",
         "antfu.goto-alias",
-        "vue.volar",
+        "@volar-plugins/vetur",
         "dbaeumer.vscode-eslint",
         "EditorConfig.EditorConfig",
         "eamodio.gitlens",
